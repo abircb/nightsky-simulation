@@ -4,6 +4,6 @@ On February 14, 1990, as Voyager-1 left our planetary neighborhood for the fring
 <br /><br />Therefore, I built this simple, basic simulation of the night sky- which is my interpretation of the night sky of other planets- using <a href= "https://github.com/VincentGarreau/particles.js"> particles.js</a>
 
 ## Usage ##
-For a demo, click <a href="https://codepen.io/abirbhushan/pen/oOGwGO">here</a>
+For a demo, click <a href="https://abircb.github.io/nightsky-simulation">here</a>
  
  
