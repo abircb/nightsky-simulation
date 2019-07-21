@@ -8,6 +8,11 @@ canvas {
   vertical-align: bottom;
 }
 
+a{
+    position:relative;
+    z-index:9999;
+}
+
 /* ---- particles.js container ---- */
 
 #particles-js {
@@ -24,4 +29,12 @@ canvas {
   67% {background-color:#2B2F77;}
   84% {background-color: #141852;}
   100%{background-color: #070B34;}
+}
+
+#info {
+  padding-top: 50%;
+  padding-left: 80%;
+  font-size: 12px;
+  font-family: 'Avenir Next';
+  color: #FFFFFF;
 }
