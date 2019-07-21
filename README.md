@@ -5,5 +5,7 @@ On February 14, 1990, as Voyager-1 left our planetary neighborhood for the fring
 
 ## Usage ##
 For a demo, click <a href="https://abircb.github.io/nightsky-simulation">here</a>
+
+Download as [Dynamic Wallpaper](https://dynamicwallpaper.club/wallpaper/8o0ol5gnxdb) (macOS Mojave)
  
  
